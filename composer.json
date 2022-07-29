@@ -1,7 +1,7 @@
 {
   "name": "hrace009/perfect-world-api",
   "description": "A package to retrieve data from a Perfect World game server",
-  "homepage": "https://github.com/hrace009/perfect-world-api",
+  "homepage": "https://github.com/protectpower/pwapi",
   "version": "1.0.2",
   "keywords": [
     "perfect world",
@@ -11,16 +11,16 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Harris Marfel",
-      "email": "hrace009@gmail.com"
+      "name": "Protect Power",
+      "email": "diegolopes.conchal@gmail.com"
     }
   ],
   "support": {
-    "source": "https://github.com/hrace009/perfect-world-api",
-    "issues": "https://github.com/hrace009/perfect-world-api/issues"
+    "source": "https://github.com/protectpower/pwapi",
+    "issues": "https://github.com/protectpower/pwapi/issues"
   },
   "require": {
-    "php": "^7.4|^8.0",
+    "php": "^7.2|^8.0",
     "illuminate/support": "5.*|6.*|7.*|8.*|9.*|10.*"
   },
   "autoload": {
