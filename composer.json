@@ -1,5 +1,5 @@
 {
-  "name": "hrace009/perfect-world-api",
+  "name": "protectpower/pwapi",
   "description": "A package to retrieve data from a Perfect World game server",
   "homepage": "https://github.com/protectpower/pwapi",
   "version": "1.0.2",
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-0": {
-      "hrace009\\PerfectWorldAPI": "src/"
+      "protectpower\\PerfectWorldAPI": "src/"
     }
   },
   "minimum-stability": "stable"
